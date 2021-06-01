@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "Ke warung",
+      "day": "jam 4",
+      "reminder": false,
+      "id": 1
+    }
+  ]
+}
